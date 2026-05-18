@@ -1,0 +1,11 @@
+# robots.txt
+User-agent: *
+Disallow: /admin
+Disallow: /*ret=*
+Disallow: /*etext*
+Allow: /*.js
+Allow: /*.webp
+Allow: /*.png
+Allow: /*.css
+Clean-param: &
+Sitemap: https://unitedofweb.com/sitemap.xml
